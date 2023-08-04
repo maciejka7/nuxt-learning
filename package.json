@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "@nuxtjs/tailwindcss": "^6.8.0",
-    "@pinia/nuxt": "^0.4.11"
+    "@pinia/nuxt": "^0.4.11",
+    "pinia": "^2.1.6"
   }
 }
